@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": false,
+  "cSpell.words": [
+    "cxxopts",
+    "Doxyfile",
+    "Doxygen",
+    "Mirebrahimi",
+    "Pouria",
+    "spdlog"
+  ],
+  "cmake.configureOnOpen": true,
+  "C_Cpp.default.compilerPath": "/usr/bin/g++-11"
+}
