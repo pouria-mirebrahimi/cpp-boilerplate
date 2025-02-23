@@ -23,3 +23,4 @@ add_subdirectory(${LIBRARY_SOURCE})
 add_subdirectory(${APPLICATION_SOURCE})
 add_subdirectory(${UNIT_TEST_SOURCE})
 
+include(CPack)
